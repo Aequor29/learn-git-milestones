@@ -312,7 +312,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | ✨| 
-4b | Link to `commit #1 from Github.com` |
+4b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/7c8c56eb8305489cf7e38fea6963226fc3f22d1a)|
 4c | Link to markdown tables docs |
 4d | What does `log` do? |
 5a | 2nd Favorite emoji |
