@@ -318,8 +318,8 @@ Item # | Description | Completed
 5a | 2nd Favorite emoji |🉑
 5b | Link to `commit #2 from Github Desktop` |[commit #2](https://github.com/Aequor29/learn-git-milestones/commit/368b10158bfd2bdafbd2f6e8adfb0c4a84d70dc3)
 6a | Full path to your working directory | C:\Users\Huhyr\Documents\GitHub\learn-git-milestones
-6b | Link to `commit #3 from CLI` |
-7 | 3rd Favorite emoji |
+6b | Link to `commit #3 from CLI` |[commit #3](https://github.com/Aequor29/learn-git-milestones/commit/397553fc189f20d96aaa01be46bef232dc8d3585)
+7 | 3rd Favorite emoji | ❤
 8 | Link to `commit #4 from VS Code` |
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
