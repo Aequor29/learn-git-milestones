@@ -315,7 +315,7 @@ Item # | Description | Completed
 4b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/7c8c56eb8305489cf7e38fea6963226fc3f22d1a)|
 4c | Link to markdown tables docs |[markdown table doc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 4d | What does `log` do? |log refers to the command used to view the history of a repository. The git log command displays committed snapshots, letting you see which changes were made, by whom, and when.
-5a | 2nd Favorite emoji |
+5a | 2nd Favorite emoji |🉑
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
