@@ -321,7 +321,7 @@ Item # | Description | Completed
 6b | Link to `commit #3 from CLI` |[commit #3](https://github.com/Aequor29/learn-git-milestones/commit/397553fc189f20d96aaa01be46bef232dc8d3585)
 7 | 3rd Favorite emoji | ❤
 8 | Link to `commit #4 from VS Code` |[commit #4 from vscode](https://github.com/Aequor29/learn-git-milestones/commit/ece12788f4fb9d292a5417dad371216d3ef21fcc)
-9a | Link to `first-website` github.com repo page |
+9a | Link to `first-website` github.com repo page |https://github.com/Aequor29/first-website
 9a | Link to `first-website` github.io "project site" |
 
 
